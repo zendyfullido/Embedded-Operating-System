@@ -1,9 +1,8 @@
 # Embedded-Operating-System
-Implementation of the following scheduling algorithm using TinkerCAD.
-
+**Implementation of the following scheduling algorithm using TinkerCAD.**
 The LED represents the process or task.
 
-TINKERCAD links and Video links:
+**TINKERCAD links and Video links:**
 
 First In First Out (FIFO) Algorithm (Simulation)
 https://www.tinkercad.com/things/gGGQpBZhQMJ-embedded-operating-system-fifo
