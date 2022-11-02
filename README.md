@@ -1,6 +1,5 @@
 # Embedded-Operating-System
 **Implementation of the following scheduling algorithm using TinkerCAD.**
-The LED represents the process or task.
 
 **TINKERCAD links and Video links:**
 
